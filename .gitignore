@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache & compiled bytecode
+__pycache__/
+*.pyc
+
+# Local outputs and test images
+*.png
+*.jpg
+*.jpeg
+
+# Model cache files (if any are saved locally)
+*.onnx
+.rembg/
